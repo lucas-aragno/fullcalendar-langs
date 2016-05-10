@@ -1,0 +1,20 @@
+{
+  "name": "fullcalendar-langs",
+  "version": "0.0.1",
+  "authors": [
+    "Lucas Aragno"
+  ],
+  "description": "include lang-all from fullcalendar using bower",
+  "main": "index.js",
+  "keywords": [
+    "lang"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
